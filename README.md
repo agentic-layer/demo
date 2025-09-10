@@ -42,7 +42,7 @@ This demo assumes you have the following:
     ```
 1. Wait for all applications to start
 1. Open the Observability Dashboard 
-   - exposed at https://localhost:10005
+   - exposed at http://localhost:10005
 1. Prompt the host agent to talk to the other agent via A2A.
    - Either:
      1. via cURL (recommended):
